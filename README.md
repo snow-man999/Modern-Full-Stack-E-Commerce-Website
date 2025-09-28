@@ -113,6 +113,7 @@ To set up and run the project locally, follow these steps:
 
 
 ## Contact
+`If you have some questions in this project, feel free to reach out.`
 
 - [Author](https://github.com/MMansy19)
 - [Website](https://mahmoud-mansy-portfolio.netlify.app/)
